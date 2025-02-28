@@ -22,5 +22,6 @@ Esta análise está focada na etapa inicial de **Exploração** dos dados. A tra
 
 1. Clone este repositório em sua máquina.
 2. Instale as dependências necessárias:
+
    ```bash
    pip install -r requirements.txt
